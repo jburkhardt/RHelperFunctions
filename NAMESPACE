@@ -2,4 +2,5 @@
 
 export(rhfAddDateVars)
 export(rhfFacToChar)
+export(rhfInfNAToZero)
 export(rhfPwdInput)
