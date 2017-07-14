@@ -3,4 +3,5 @@
 export(rhfAddDateVars)
 export(rhfFacToChar)
 export(rhfInfNAToZero)
+export(rhfInsertDataDB)
 export(rhfPwdInput)
