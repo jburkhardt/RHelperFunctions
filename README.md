@@ -20,3 +20,4 @@ install_github('jburkhardt/RHelperFunctions')
 - **rhfAddDateVars()** - Adds additional columns to a dataframe/datatable containing year, month, year-month, calender-week, year-calender-week.
 - **rhfPwdInput()** - Reads user input from promt. Useful in interactive R session to store passwords in a variable without writing passwords in script.
 - **rhfInsertDataDB** - Inserts a dataframe into a database.
+- **rhfRepeatUntilOk** - Repeats a target function until result succesful.
