@@ -21,5 +21,4 @@ This function adds additional columns to a data frame containing year, month, ye
 \dontrun{
 dt <- rhfAddDateVars(data = dt, date = "date")
 }
-
 }

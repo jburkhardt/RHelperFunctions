@@ -9,7 +9,7 @@
 #' \dontrun{
 #' dt <- rhfAddDateVars(data = dt, date = "date")
 #' }
-#'
+#' @import data.table
 #' @export
 #' @return datatable
 
