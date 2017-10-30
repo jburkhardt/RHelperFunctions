@@ -22,3 +22,4 @@ install_github('jburkhardt/RHelperFunctions')
 - **rhfInsertDataDB** - Inserts a dataframe into a database.
 - **rhfDeleteDB** - Delete database rows/entries by key column.
 - **rhfRepeatUntilOk** - Repeats a target function until result succesful.
+- **rhfCalcGrowthRates** - Function that calculates growth rates given a time lag.
